@@ -2757,6 +2757,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -80358,6 +80359,8 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "col-md-4" }, [
+      _c("p", [_vm._v("API")]),
+      _vm._v(" "),
       _c("h2", [
         _c("span", [_c("i", { staticClass: "fa fa-users" })]),
         _vm._v(" Productos")
