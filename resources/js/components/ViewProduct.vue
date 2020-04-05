@@ -3,6 +3,7 @@
         <!-- <img src="/storage/products/p_1585801497.png" alt="imgp"> -->
         <div class="row mt-3">
             <div class="col-md-4">
+                <p>API</p>
                 <h2><span><i class="fa fa-users"></i></span> Productos</h2>
             </div>
             <div class="col-md-4 offset-md-4 shadow card-body">
